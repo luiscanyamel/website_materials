@@ -10,5 +10,5 @@
 [Research Statement](Research_Statement_LuisPerez.pdf)
 
 ## Other Projects
-[Garcia-Vazquez Perez 2022](GarciaPerez2022.pdf)
+[The Impact of Measurement Error in Health-Related Counterfactuals (with Martin Garcia-Vazquez)](GarciaPerez2022.pdf)
 
