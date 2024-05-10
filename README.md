@@ -1,7 +1,7 @@
 # Website Materials
 
 ## CV
-[CV](CV_LuisPerez.pdf) [CV (castellano)][CV_spanish.pdf]
+[CV](CV_LuisPerez.pdf) [CV (castellano)](CV_spanish.pdf)
 
 ## Job Market Paper
 [Job Market Paper](JMP_LuisPerez.pdf)
